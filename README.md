@@ -1,13 +1,19 @@
-○ Full Name: Trisha Jean Ramos
-○ Degree Program: BS Computer Science 
-○ Live Website link: https://github.com/CMSC100-Laboratory/html-and-css-trishajean 
-○ Steps on how to create GitHub page:
-1. create a repository - go to github, create a public repository and name it
-2. upload the necessary files and commit the changes 
-3. enable github pages - go to Settings>Pages> select the main branch and then save
-4. you can acces your website in the given url link, wait for it to load as it takes a bit of time to load
-5. now you can update anytime by uploading files, commit and refresh anytime
+- **Full Name:** Trisha Jean Ramos  
+- **Section:** C3L  
+- **Degree Program:** BS Computer Science  
 
-○ What are your key takeaways from this exercise?
-My key takeaways from doing this exercise is how convenient github pages are for hosting sites, 
-how HTML and CSS are structured as well as how Flexbox helps in the responsiveness for the UI. 
+## Live Website Link  
+🔗 [My GitHub Page](https://cmsc100-laboratory.github.io/html-and-css-trishajean/)  
+
+## Steps on How to Create a GitHub Page  
+1. **Create a repository** - Go to GitHub, create a public repository, and name it.  
+2. **Upload the necessary files** and commit the changes.  
+3. **Enable GitHub Pages** - Go to **Settings > Pages**, select the **main branch**, and then save.  
+4. **Access your website** using the provided URL. Wait for it to load, as it may take some time.  
+5. **Update anytime** by uploading new files, committing changes, and refreshing your page.  
+
+## Key Takeaways  
+📌 **What I learned from this exercise:**  
+- How **convenient GitHub Pages** are for hosting websites.  
+- How **HTML and CSS** are structured.  
+- How **Flexbox** helps in making the UI responsive. 
