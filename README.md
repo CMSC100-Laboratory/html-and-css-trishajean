@@ -1,5 +1,5 @@
 - **Full Name:** Trisha Jean Ramos  
-- **Section:** C3L  
+- **Section:** C2L  
 - **Degree Program:** BS Computer Science  
 
 ## Live Website Link  
