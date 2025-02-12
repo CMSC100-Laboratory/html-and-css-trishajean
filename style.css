@@ -18,7 +18,7 @@ header {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-color: #007BFF;
+    background-color: #d000ff;
     color: #fff;
     padding: 15px 30px;
 }
@@ -123,7 +123,7 @@ nav a:hover {
 
 /* footer */
 footer {
-    background-color: #007BFF;
+    background-color: #d000ff;
     color: #fff;
     padding: 20px;
     text-align: center;
